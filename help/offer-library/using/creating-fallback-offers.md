@@ -37,7 +37,7 @@ To create a fallback offer, follow these steps:
 
     ![](assets/fallback_review.png)
 
-1. The fallback offer displays in the list with the **[!UICONTROL Live]** or **[!UICONTROL Draft]** status, depending on wether you approved it or not in the previous step.
+1. The fallback offer displays in the list with the **[!UICONTROL Live]** or **[!UICONTROL Draft]** status, depending on whether you approved it or not in the previous step.
 
     It is now ready to be delivered to customers. You can select it to display its properties and edit it. <!-- no suppression? -->
 
