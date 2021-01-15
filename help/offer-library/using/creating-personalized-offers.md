@@ -73,7 +73,7 @@ To create an offer, follow these steps:
 
         ![](assets/offer_rule.png)
 
-    1. Define the **[!UICONTROL Priority]** of the offer compared to other ones. The highest an offer's priority will be, the highest its priority will be compared to other offers.
+    1. Define the **[!UICONTROL Priority]** of the offer compared to other ones. The higher an offer's priority will be, the higher its priority will be compared to other offers.
 
     1. Specify the offer's **[!UICONTROL Capping]**, meaning the number of times the offer will be presented in total per user.
 
@@ -97,7 +97,7 @@ To create an offer, follow these steps:
 
     ![](assets/offer_review.png)
 
-1. The offer displays in the list with the **[!UICONTROL Live]** or **[!UICONTROL Draft]** status, depending on wether you approved it or not in the previous step.
+1. The offer displays in the list with the **[!UICONTROL Live]** or **[!UICONTROL Draft]** status, depending on whether you approved it or not in the previous step.
 
     It is now ready to be delivered to customers. You can select it to display its properties and edit or suppress it.
 

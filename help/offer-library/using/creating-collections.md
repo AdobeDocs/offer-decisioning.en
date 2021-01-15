@@ -19,7 +19,7 @@ You can create two types of collections:
 
 * **Dynamic collections** are collections of offers based on tags. These collections are updated automatically. For example, if a new offer is created with the selected tag, it will automatically be added to the collection.
 
-* **Static collections** are collections built by manually selecting individual offers to include in the Collection. The collection can only be updated my manually adding more offers to it.
+* **Static collections** are collections built by manually selecting individual offers to include in the Collection. The collection can only be updated by manually adding more offers to it.
 
 To create a collection, follow these steps:
 
